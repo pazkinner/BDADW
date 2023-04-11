@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BDADW", "BDADW.sqlproj", "{50ADC548-CF30-43E0-AD5F-07AF8B6ECFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50ADC548-CF30-43E0-AD5F-07AF8B6ECFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ADC548-CF30-43E0-AD5F-07AF8B6ECFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ADC548-CF30-43E0-AD5F-07AF8B6ECFAD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{50ADC548-CF30-43E0-AD5F-07AF8B6ECFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50ADC548-CF30-43E0-AD5F-07AF8B6ECFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50ADC548-CF30-43E0-AD5F-07AF8B6ECFAD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24DF5B62-E19F-4670-96F7-427C627E7C51}
+	EndGlobalSection
+EndGlobal
